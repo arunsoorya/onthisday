@@ -1,4 +1,3 @@
-
 <!DOCTYPE html><html> <head> <meta charset="utf-8"> <meta name="viewport" content="width=device-width"> <title>Privacy Policy</title> <style>body{font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; padding:1em;}</style></head> <body><h2>Privacy Policy</h2> <p> arunsoorya built the onthisday app as a Free app. This SERVICE is provided by arunsoorya at no cost and is intended for use as is.
                   </p> <p>This page is used to inform website visitors regarding my policies with the collection, use, and
                     disclosure of Personal Information if anyone decided to use my Service.
